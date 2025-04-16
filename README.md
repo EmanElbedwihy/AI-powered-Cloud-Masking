@@ -1,2 +1,2 @@
-# AI-powered-Cloud-Masking
+# AI-powered-Cloud-Masking 🌩️
 Satellite Imagery Project
