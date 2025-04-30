@@ -1,4 +1,4 @@
-# AI-Powered Cloud Masking ☁️🌩️
+# AI-Powered Cloud Masking  🌩️
 
 Welcome to the **AI-Powered Cloud Masking** project! This repository provides a robust deep learning pipeline for detecting and masking clouds in satellite imagery. 
 
